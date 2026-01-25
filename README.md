@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Giulia! 👩‍💻
 
-<!--
-**giulia-oiegas/giulia-oiegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- facts about me ... bla bla -->
+```javascript
+let giulia = {
+  education: "B.Sc. Business Information Systems (Graduating 2026)",
+  goal: "Full Stack Developer",
+  currentlyLearning: ["Node.js", "Backend Architecture"],
+  motivation: "Exploring the full stack ecosystem to build systems that are as logical as they are functional.",
+  status: "Always learning"
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--github stats from https://github.com/anuraghazra/github-readme-stats-->
+[![Giulia's github stats](https://github-readme-stats.vercel.app/api?username=giulia-oiegas&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
