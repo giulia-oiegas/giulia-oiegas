@@ -5,7 +5,7 @@
 let giulia = {
   education: "B.Sc. Business Information Systems (Graduating 2026)",
   goal: "Full Stack Developer",
-  currentlyLearning: ["Node.js", "Backend Architecture"],
+  currentlyLearning: ["Semantic Web", "Big Data Fundamentals", "SAP Signavio", "Tableau"],
   motivation: "Exploring the full stack ecosystem to build systems that are as logical as they are functional.",
   status: "Always learning"
 };
